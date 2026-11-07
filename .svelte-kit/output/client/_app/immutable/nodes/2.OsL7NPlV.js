@@ -1,0 +1,2 @@
+import{a,f as o}from"../chunks/1XW4517Q.js";import{Z as t,U as s}from"../chunks/BFunsuKn.js";t();var p=o(`<h2>Welcome</h2> <p>Open the <a href="/recipes">recipe list</a>, or try the JSON feed at <a href="/api-tester">/api/recipes</a>.</p> <p class="hint svelte-1uha8ag">The pages in <code>src/routes/</code> are browser code. The files in <code>src/lib/mock-server/</code> are the pretend
+  server: they are where you write today.</p>`,1);function h(e){var r=p();s(4),a(e,r)}export{h as component};
